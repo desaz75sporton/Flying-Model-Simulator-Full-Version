@@ -246,4 +246,4 @@ This repository serves as the official landing page for Flying-Model-Simulator. 
 **Get the most recent version of Flying-Model-Simulator today!**
 
 ---
-**Last updated:** 2026-09-13 14:49:13 UTC
+**Last updated:** 2026-09-13 17:51:33 UTC
